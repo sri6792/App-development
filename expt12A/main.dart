@@ -11,12 +11,12 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyDJj0jOruV_aPLgQ-1aC6dpI5FMZI-az20",
-          authDomain: "authapp1-2b5b2.firebaseapp.com",
-          projectId: "authapp1-2b5b2",
-          storageBucket: "authapp1-2b5b2.firebasestorage.app",
-          messagingSenderId: "981668846118",
-          appId: "1:981668846118:web:728f331ce05908953824e7"
+          apiKey: "",
+          authDomain: "",
+          projectId: "2",
+          storageBucket: "",
+          messagingSenderId: "",
+          appId: ""
       ),
     );
   } else {
@@ -48,3 +48,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
