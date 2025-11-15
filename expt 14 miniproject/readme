@@ -1,1 +1,8 @@
 https://drive.google.com/file/d/1eIH0CgYWhGixj--2PwbMNrPOMrrgzXzv/view?usp=drivesdk
+
+🚀 NASA Space Explorer – React Native App
+
+NASA Space Explorer is a beautifully designed mobile application built with React Native and Expo, allowing users to explore the wonders of space using real NASA APIs. The app features a stunning UI with smooth animations, cosmic backgrounds, and interactive screens that showcase NASA’s Astronomy Picture of the Day (APOD), space missions, high-resolution images, and fun space facts. It delivers a modern, immersive space-themed experience with features like detailed image descriptions, sharing/downloading options, and dynamic content fetched in real time. Whether you’re curious about today’s APOD, browsing past images, or learning fascinating cosmic facts, the app offers an engaging educational journey through space.
+
+This project also includes a sleek welcome experience, user authentication flow, tab-based navigation, and multiple custom screens such as Explore, APOD, Explore Details, and Fun Facts. The UI has been crafted with gradients, animated components, soft glows, and modern card layouts to maintain a premium, professional look throughout the app. NASA Space Explorer is ideal for students, space enthusiasts, and developers looking to learn API integration, mobile UI design, or React Native app structure. Clone it, explore the code, customize it, and enjoy a visually rich tour of the universe—right from your phone.
+
